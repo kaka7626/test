@@ -1,7 +1,7 @@
 def spam():
-    global hoang
-    hoang = 'Hello'
+    global long
+    long = 'Hello'
 
-hoang = 99
+long = 99
 spam()
-print(hoang)
+print(long)
